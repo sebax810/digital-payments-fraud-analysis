@@ -50,19 +50,19 @@ The following validation checks were performed:
 
 ## 📈 Key Insights
 
-• The dataset contains 10,000 transactions with a total processed value of £2,560,642.79.
-• Fraud accounts for 1.91% of total transactions.
-• Fraud represents 1.71% of total transaction value.
-• The average fraud transaction (£229.11) is slightly lower than the average normal transaction (£256.59).
-• Fraud activity peaks at 19:00
+- The dataset contains 10,000 transactions with a total processed value of £2,560,642.79.
+- Fraud accounts for 1.91% of total transactions.
+- Fraud represents 1.71% of total transaction value.
+- The average fraud transaction (£229.11) is slightly lower than the average normal transaction (£256.59).
+- Fraud activity peaks at 19:00
 
 ## 💡 Business Recommendations
 
-• Maintain monitoring systems even for lower-value transactions, as fraud is not limited to high-value transfers.
-• Implement automated fraud detection rules based on behavioural patterns rather than transaction size alone.
-• Monitor fraud rate trends over time to detect sudden spikes in exposure.
-•Conduct further segmentation analysis (e.g., by user or time of day) to identify concentrated risk patterns.
-•Increase fraud monitoring intensity during peak evening hours (18:00-21:00)
+- Maintain monitoring systems even for lower-value transactions, as fraud is not limited to high-value transfers.
+- Implement automated fraud detection rules based on behavioural patterns rather than transaction size alone.
+- Monitor fraud rate trends over time to detect sudden spikes in exposure.
+- Conduct further segmentation analysis (e.g., by user or time of day) to identify concentrated risk patterns.
+- Increase fraud monitoring intensity during peak evening hours (18:00-21:00)
 
 
 ---
