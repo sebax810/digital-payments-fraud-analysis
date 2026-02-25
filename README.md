@@ -37,58 +37,30 @@ The following validation checks were performed:
 
 ---
 
-
-
 ## 📊 Key Business Questions
 
-
-
 1. What is the total number of transactions?
-
 2. What is the total transaction value?
-
 3. What is the fraud rate?
-
 4. What percentage of transaction value is fraudulent?
-
 5. At what time of day does fraud occur most frequently?
-
 6. Are fraud transactions higher value than normal transactions?
 
-
-
 ---
-
-
 
 ## 📈 Key Insights
 
-
-
 (To be filled after SQL analysis)
 
-
-
 ---
-
-
 
 ## 💡 Business Recommendations
 
-
-
 (To be filled after analysis)
-
-
 
 ---
 
-
-
 ## 🛠 Tools Used
 
-
-
 - Google BigQuery (SQL)
-
 - GitHub
