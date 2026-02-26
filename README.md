@@ -120,7 +120,7 @@ Fraud activity increases disproportionately during evening hours, with a peak fr
 
 
 
-![Fraud Rate by Hour](Images/fraud_rate_by_hour.png)
+![Fraud Rate by Hour](Images/fraud_rate_by_hour.png).
 
 
 
