@@ -79,115 +79,34 @@ The following validation checks were performed:
 
 # Digital Payments & Fraud Analysis
 
-
-
-Right under that, 2–3 lines summary:
-
-
-
 This project analyses transaction data to identify fraud patterns, risk exposure, and time-based fraud behaviour using SQL (BigQuery) and Tableau.
-
-
-
-2️⃣ 📊 Executive Summary (KPI Section Goes HERE)
-
-
-
-Immediately after the introduction.
-
-
-
-Paste this:
-
-
 
 ## 📊 Executive Summary
 
-
-
 | Metric | Value |
-
 |--------|--------|
-
 | Total Transactions | 10,000 |
-
 | Total Transaction Value | £2,560,642.79 |
-
 | Overall Fraud Rate | 1.91% |
-
 | Fraud Value Exposure | 1.71% |
-
 | Peak Fraud Hour | 19:00 |
-
 | Fraud Rate at Peak Hour | 3.25% |
-
-
-
-📌 Why here?
-
-
-
-Because recruiters skim.
-
-They want key numbers immediately.
-
-
-
-This section makes your repo look serious.
-
-
-
-3️⃣ 🧠 Business Problem
-
-
-
-After KPI section.
-
-
 
 ## 🧠 Business Problem
 
-
-
 Digital payment platforms must monitor fraud exposure while maintaining seamless transaction flow. 
 
-
-
 The objective of this analysis is to:
-
 - Measure fraud frequency and financial exposure
-
 - Identify high-risk transaction periods
-
 - Detect behavioural fraud patterns
-
 - Provide data-driven risk mitigation recommendations
-
-
-
-4️⃣ 📈 Exploratory Data Analysis (Charts Go HERE)
-
-
-
-This is where you embed the Tableau visuals.
-
-
-
-First Chart
-
-
 
 ## 📈 Hourly Transaction Distribution
 
-
-
 The chart below shows transaction volume across the day, highlighting peak usage periods.
 
-
-
 ![Hourly Transactions](images/hourly_transactions.png)
-
-
 
 Second Chart (Stronger)
 
