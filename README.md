@@ -106,7 +106,7 @@ The objective of this analysis is to:
 
 The chart below shows transaction volume across the day, highlighting peak usage periods.
 
-![Hourly Transactions](images/hourly_transactions.png)
+![Hourly Transactions](Images/Hourly_transactions.png).
 
 Second Chart (Stronger)
 
