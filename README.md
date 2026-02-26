@@ -22,6 +22,14 @@ The objective of this analysis is to:
 - Identify high-risk transaction periods
 - Detect behavioural fraud patterns
 - Provide data-driven risk mitigation recommendations
+​
+## 🛠 Methodology
+
+- Data cleaning and validation in BigQuery
+- Aggregation using SQL (COUNT, SUM, CASE WHEN, COUNTIF)
+- Time bucketing using integer division
+- Fraud rate and exposure calculations
+- Visualisation and risk pattern identification using Tableau
 
 ## 📈 Hourly Transaction Distribution
 
