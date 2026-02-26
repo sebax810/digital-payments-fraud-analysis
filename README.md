@@ -37,13 +37,7 @@ The chart below shows transaction volume across the day, highlighting peak usage
 
 ![Hourly Transactions](Images/Hourly_transactions.png).
 
-Second Chart (Stronger)
-
-
-
 ## 🚨 Fraud Rate by Hour
-
-
 
 Fraud activity increases disproportionately during evening hours, with a peak fraud rate of 3.25% at 19:00 — significantly above the daily average of 1.91%.
 
